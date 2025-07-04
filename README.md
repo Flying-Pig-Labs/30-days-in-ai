@@ -86,44 +86,6 @@ Here are the 30+ AI-powered tools we're exploring. They cut across coding, produ
 | StudyFetch           | Learning AI            | Built for note syncing, quiz generation, and spaced repetition—great for learning cycles.    | [#54](https://github.com/Flying-Pig-Labs/30-days-in-ai/issues/54) |
 | Harvey               | Legal AI               | AI designed for law firms—real use case for professional AI co-pilots in regulated fields.   | [#47](https://github.com/Flying-Pig-Labs/30-days-in-ai/issues/47) |
 
-## 🎬 About This Project
-
-This repository serves as a comprehensive resource for exploring AI tools that leverage Claude's capabilities. Whether you're:
-
-- 👨‍💻 A developer looking for AI-powered coding assistants
-- 💼 A business professional seeking productivity tools
-- 🎨 A content creator exploring AI-enhanced workflows
-- 🎓 An educator interested in AI literacy
-
-You'll find detailed test drives, demo scripts, and streaming guides to help you explore these tools effectively.
-
-## 🚀 Getting Started
-
-1. **Browse the Tools**: Review the table above to find tools that match your interests
-2. **Try a Test Drive**: Click on the test drive links to access detailed challenge templates
-3. **Watch Demos**: Check out our [streaming setup guide](local-setup/README.md) for live demonstrations
-4. **Prepare Your Own Demos**: Use our [demo preparation guide](demo-preparation.md) for scripts and examples
-
-## 📺 Streaming Schedule
-
-Planning to stream all 30 tools? Our guides break it down into manageable blocks:
-
-- **Coding Tools** (12 tools): ~60 minutes
-- **Business & Productivity** (8 tools): ~40 minutes  
-- **Content Creation** (6 tools): ~30 minutes
-- **Specialized Tools** (4 tools): ~25 minutes
-
-Total stream time: 2.5-3 hours including intro/outro
-
-## 🤝 Contributing
-
-Found a new Claude-powered tool? Have a great test drive idea? Contributions are welcome!
-
-1. Fork this repository
-2. Create a new branch for your contribution
-3. Add your content following the existing patterns
-4. Submit a pull request
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
