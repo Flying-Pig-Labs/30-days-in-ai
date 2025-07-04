@@ -5,11 +5,9 @@
 ## 📚 Quick Links
 
 - 🎥 **[Streaming Setup Guide](local-setup/README.md)** - Complete guide for streaming tool demonstrations
-- 📝 **[Demo Preparation](demo-preparation.md)** - Scripts and examples for each tool demo
-- 🎯 **[Issue Templates](.github/ISSUE_TEMPLATE)** - Test drive challenges for specific tools
 
 ## The Prompt
-I used a claude-flow sparc to set up this project. While I did lots of post-run editing, here's the one-shot prompt I used to get things set up:
+I used a [claude-flow sparc](https://github.com/ruvnet/claude-code-flow) to set up this project. While I did lots of post-run editing, here's the one-shot prompt I used to get things set up:
 ```
 You are my AI co-producer for a Twitch stream and YouTube series where my friend and I test drive tools from Anthropic’s “Claude for Business” partner showcase. Each episode is only 30 minutes long, so I need you to handle three roles:
 
