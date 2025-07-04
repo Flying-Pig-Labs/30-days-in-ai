@@ -1,34 +1,89 @@
-# 30-days-in-ai
-Let's look at the 30 tools recommended by Anthropic, all of which use Claude.
+# 🚀 30 Days in AI: Exploring Claude-Powered Tools
 
-| Tool / Company       | Category               | How Flying Pig Labs Might Use It for AI Literacy                                                | Special Sauce                                                                                 |
-|----------------------|------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Augment Code         | Coding Tool            | Teach prompt engineering + AI pair programming during workshops for engineers and founders.      | Tailored for real-time code iteration and feedback loops in LLM-enhanced workflows.            |
-| Base44               | Coding Tool            | Partner to deliver AI literacy bootcamps nearshore; co-develop curriculum in Spanish & English. | Known for bridging global dev talent with high empathy—perfect for mission-aligned partners.   |
-| Bolt.new             | Coding Tool            | Showcase how to spin up LLM prototypes fast—ideal for AI demo days or civic hackathons.          | Extreme speed-to-prototype with built-in Claude integrations.                                  |
-| Bubble               | Coding Tool            | Use in no-code literacy courses to teach AI-enhanced app prototyping to non-developers.          | Combines visual dev with Claude-driven logic—great for fast comprehension.                     |
-| Cursor (Anysphere)   | Coding Tool            | Demonstrate IDE-based AI copilots during advanced literacy trainings and engineering consulting. | Best-in-class Claude-native dev environment with version-aware agents.                         |
-| Devin                | Coding Tool            | Include in talks about future-of-work and AI agents in software development.                     | First real “AI software engineer” narrative tool—great for philosophical discussion.            |
-| Factory              | Coding Tool            | Run internal experiments with agents-as-teammates in contact centers; use for public demos.      | Built for running fully autonomous AI teams—dream case study material.                         |
-| Greptile             | Coding Tool            | Build lessons around codebase comprehension and how AI can parse large systems.                  | Remarkably good at repo insight and summarization—bridges human+LLM understanding of systems.   |
-| Lovable              | Coding Tool            | Build frontends for AI literacy projects; teach funnel optimization with smart prompt design.     | Lovable-first prompt UI makes it tangible for design thinkers and newcomers to AI.             |
-| Qodo                 | Coding Tool            | Use in AI ethics sessions to explore how decisions are made and logged in agent chains.          | Includes full provenance chain for decisions—ideal for AI safety conversations.                 |
-| Replit               | Coding Tool            | Introduce code-first AI literacy to students and career switchers in live demos.                 | Fast, shareable, and collaborative—perfect for instant LLM code experiments.                    |
-| Zed                  | Coding Tool            | Show the productivity gains of clean, fast local tooling + AI integration.                       | Minimalist IDE with Claude-in-the-loop—great for distraction-free dev.                          |
-| Zencoder             | Coding Tool            | Process multimedia content for AI workshops—transcribe, subtitle, and summarize learning clips. | Seamlessly turns audio/video into accessible learning formats.                                 |
-| Clay                 | CRM/Data               | Map out partner orgs, local governments, or school districts for outreach and alliance building. | Combines relationship data and enrichment—perfect for civic + ecosystem mapping.               |
-| Databricks           | Data/Analytics         | Teach advanced AI literacy modules on data prep, model evaluation, and civic datasets.           | Scales across entire ML lifecycle—teachable platform for practitioners.                        |
-| Day.ai               | Voice + Analytics      | Showcase in contact center AI literacy programs—train voice data loops and analytics tooling.    | Real-time analytics on voice inputs—great example of multimodal AI literacy.                   |
-| Dust                 | Productivity AI        | Run internal AI for Flying Pig Labs planning; use live to demo agent-based summarization.        | Shows how teams can operationalize Claude without code—agent creation made intuitive.            |
-| Gamma                | BI / Storytelling      | Help students visualize LLM outputs and prompt iterations in a narrative format.                 | Stunning Claude-powered slide generation from just text input.                                 |
-| Genspark             | Agents / Automation    | Teach students how autonomous agents operate in sales, research, and public service.             | Highly modular agent creation—perfect for sandboxing civic or entrepreneurial bots.             |
-| Highlight AI         | Meeting AI             | Use to analyze civic tech roundtable discussions or AI bootcamp cohort feedback sessions.        | Turns meetings into structured summaries—emphasizes AI as reflection tool.                     |
-| Interop.io           | Enterprise Integration | Great example in talks on legacy tech + AI augmentation for workforce transformation.            | Unique focus on UI-level integration of disparate systems with AI overlays.                     |
-| Julius AI            | Data Analyst AI        | Run workshops on AI-assisted analytics; use public data like census, housing, or education.      | Feels like Excel + LLM—amazing bridge between classic BI and Claude.                           |
-| Captions             | Video Content          | Produce short videos showcasing how AI literacy changes lives—include student voices.            | Voice-to-video pipeline built on LLMs—ideal for expressive storytelling.                        |
-| InVideo              | Video Content          | Create AI-powered recaps of hackathons, workshops, and civic engagement projects.                | Makes pro-quality video assets from prompts—low effort, high impact.                           |
-| Ginger Labs          | EdTech / Notes         | Let students use Notability + Claude to capture notes and summarize learning.                    | Claude integration with one of the most beloved classroom apps.                                |
-| StudyFetch           | Learning AI            | Pilot as a platform for K-12 AI literacy curriculum or certification prep for teachers.          | Built for note syncing, quiz generation, and spaced repetition—great for learning cycles.       |
-| Harvey               | Legal AI               | Include in sessions about AI risk, compliance, and responsible use—especially for public orgs.   | AI designed for law firms—real use case for professional AI co-pilots in regulated fields.      |
+> A comprehensive exploration of 30+ cutting-edge AI tools recommended by Anthropic, all powered by Claude.
 
+## 📚 Quick Links
 
+- 🎥 **[Streaming Setup Guide](local-setup/README.md)** - Complete guide for streaming tool demonstrations
+- 📝 **[Demo Preparation](demo-preparation.md)** - Scripts and examples for each tool demo
+- 🎯 **[Issue Templates](.github/ISSUE_TEMPLATE)** - Test drive challenges for specific tools
+
+## 🛠️ The Tools
+
+Explore 30+ AI-powered tools across coding, productivity, content creation, and more:
+
+| Tool / Company       | Category               | Special Sauce                                                                                 | Test Drive |
+|----------------------|------------------------|-----------------------------------------------------------------------------------------------|------------|
+| Augment Code         | Coding Tool            | Tailored for real-time code iteration and feedback loops in LLM-enhanced workflows.          | - |
+| Base44               | Coding Tool            | AI no-code platform with "Vibe Coding" - acquired by Wix for $80M.                         | [🧪 Test Drive](.github/ISSUE_TEMPLATE/base44-test-drive.md) |
+| Bolt.new             | Coding Tool            | Extreme speed-to-prototype with built-in Claude integrations.                                | - |
+| Bubble               | Coding Tool            | Combines visual dev with Claude-driven logic—great for fast comprehension.                   | [🧪 Test Drive](.github/ISSUE_TEMPLATE/bubble-test-drive.md) |
+| Cursor (Anysphere)   | Coding Tool            | Best-in-class Claude-native dev environment with version-aware agents.                       | - |
+| Devin                | Coding Tool            | First real "AI software engineer" narrative tool—great for philosophical discussion.        | - |
+| Factory              | Coding Tool            | Built for running fully autonomous AI teams—dream case study material.                       | - |
+| Greptile             | Coding Tool            | Remarkably good at repo insight and summarization—bridges human+LLM understanding of systems.| - |
+| Lovable              | Coding Tool            | Lovable-first prompt UI makes it tangible for design thinkers and newcomers to AI.           | - |
+| Qodo                 | Coding Tool            | Includes full provenance chain for decisions—ideal for AI safety conversations.              | - |
+| Replit               | Coding Tool            | Fast, shareable, and collaborative—perfect for instant LLM code experiments.                 | [🧪 Test Drive](.github/ISSUE_TEMPLATE/replit-test-drive.md) |
+| Zed                  | Coding Tool            | Minimalist IDE with Claude-in-the-loop—great for distraction-free dev.                      | - |
+| Zencoder             | Coding Tool            | Seamlessly turns audio/video into accessible learning formats.                               | - |
+| Clay                 | CRM/Data               | Combines relationship data and enrichment—perfect for civic + ecosystem mapping.             | - |
+| Databricks           | Data/Analytics         | Scales across entire ML lifecycle—teachable platform for practitioners.                      | [🧪 Test Drive](.github/ISSUE_TEMPLATE/databricks-test-drive.md) |
+| Day.ai               | Voice + Analytics      | Real-time analytics on voice inputs—great example of multimodal AI literacy.                 | - |
+| Dust                 | Productivity AI        | Shows how teams can operationalize Claude without code—agent creation made intuitive.        | - |
+| Gamma                | BI / Storytelling      | Stunning Claude-powered slide generation from just text input.                               | - |
+| Genspark             | Agents / Automation    | Highly modular agent creation—perfect for sandboxing civic or entrepreneurial bots.          | - |
+| Highlight AI         | Meeting AI             | Turns meetings into structured summaries—emphasizes AI as reflection tool.                   | - |
+| Interop.io           | Enterprise Integration | Unique focus on UI-level integration of disparate systems with AI overlays.                  | - |
+| Julius AI            | Data Analyst AI        | Feels like Excel + LLM—amazing bridge between classic BI and Claude.                         | - |
+| Captions             | Video Content          | Voice-to-video pipeline built on LLMs—ideal for expressive storytelling.                     | - |
+| InVideo              | Video Content          | Makes pro-quality video assets from prompts—low effort, high impact.                         | - |
+| Ginger Labs          | EdTech / Notes         | Claude integration with one of the most beloved classroom apps.                              | - |
+| StudyFetch           | Learning AI            | Built for note syncing, quiz generation, and spaced repetition—great for learning cycles.    | [🧪 Test Drive](.github/ISSUE_TEMPLATE/studyfetch-test-drive.md) |
+| Harvey               | Legal AI               | AI designed for law firms—real use case for professional AI co-pilots in regulated fields.   | - |
+
+## 🎬 About This Project
+
+This repository serves as a comprehensive resource for exploring AI tools that leverage Claude's capabilities. Whether you're:
+
+- 👨‍💻 A developer looking for AI-powered coding assistants
+- 💼 A business professional seeking productivity tools
+- 🎨 A content creator exploring AI-enhanced workflows
+- 🎓 An educator interested in AI literacy
+
+You'll find detailed test drives, demo scripts, and streaming guides to help you explore these tools effectively.
+
+## 🚀 Getting Started
+
+1. **Browse the Tools**: Review the table above to find tools that match your interests
+2. **Try a Test Drive**: Click on the test drive links to access detailed challenge templates
+3. **Watch Demos**: Check out our [streaming setup guide](local-setup/README.md) for live demonstrations
+4. **Prepare Your Own Demos**: Use our [demo preparation guide](demo-preparation.md) for scripts and examples
+
+## 📺 Streaming Schedule
+
+Planning to stream all 30 tools? Our guides break it down into manageable blocks:
+
+- **Coding Tools** (12 tools): ~60 minutes
+- **Business & Productivity** (8 tools): ~40 minutes  
+- **Content Creation** (6 tools): ~30 minutes
+- **Specialized Tools** (4 tools): ~25 minutes
+
+Total stream time: 2.5-3 hours including intro/outro
+
+## 🤝 Contributing
+
+Found a new Claude-powered tool? Have a great test drive idea? Contributions are welcome!
+
+1. Fork this repository
+2. Create a new branch for your contribution
+3. Add your content following the existing patterns
+4. Submit a pull request
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+*Built with ❤️ to showcase the amazing ecosystem of Claude-powered tools*
